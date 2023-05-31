@@ -1,0 +1,1 @@
+enum TileType { Circle, Square }
